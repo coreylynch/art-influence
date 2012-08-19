@@ -1,0 +1,20 @@
+'''
+Author: Corey Lynch
+Date: 08/18/2012
+
+Query for gephi. Mapping how artists influenced each other according to wikipedia.
+'''
+
+prefix gephi:<http://gephi.org/>
+prefix foaf: <http://xmlns.com/foaf/0.1/>
+CONSTRUCT{
+  ?artist gephi:label ?artistName .
+  ?influence gephi:label ?influenceName .
+  ?artist <http://dbpedia.org/ontology/influencedBy> ?influence
+} WHERE {
+  ?artist a
+  <http://dbpedia.org/ontology/Artist> .
+  ?artist <http://dbpedia.org/ontology/influencedBy> ?influence.
+  ?artist foaf:name ?artistName.
+  ?influence foaf:name ?influenceName.
+}
