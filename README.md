@@ -3,7 +3,7 @@ art-influence
 
 This maps how artists influence each other according to Wikipedia.
 
-Nodes represent people. An edge from node A to node B indicates that person A was influenced by person B. The larger the node, the more people that person has influenced in the network. Different colors correspond to communities within the network. Created using Gephi and structured wikipedia data from dbpedia. 
+Nodes represent people. An edge from node A to node B indicates that person A was influenced by person B. The larger the node, the more people that person has influenced in the network. Created using Gephi and structured wikipedia data from dbpedia. 
 
 The entire network
 ==================
@@ -12,7 +12,7 @@ The entire network
 
 Picasso's Neighborhood
 ======================
-This is Picasso's ego network, i.e. the people he influenced, was influenced by, and the connections between them.
+This is Picasso's ego network, i.e. the people he influenced, was influenced by, and the connections between them. Different colors correspond to different communities within his network.
 ![1 Picasso Black](https://github.com/coreylynch/art-influence/raw/master/picasso_black.png)
 
 ![1 Picasso White](https://github.com/coreylynch/art-influence/raw/master/picasso_white.png)
