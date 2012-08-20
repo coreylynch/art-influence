@@ -21,6 +21,10 @@ The Kurdish poet satellite
 ==========================
 ![1 Kurdish Poets](https://github.com/coreylynch/art-influence/raw/master/kurdish_poets.png)
 
+George Carlin's Neighborhood
+============================
+![1 George Carlin](https://github.com/coreylynch/art-influence/raw/master/comedic_influence.png)
+
 Some big disclaimers:
 * The influence relationship on dbpedia isn't weighted by how influential an artist was *relative to other influences*. Reality is probably much more complicated.
 * Western bias. http://en.wikipedia.org/wiki/Wikipedia:BIAS
