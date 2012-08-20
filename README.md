@@ -6,14 +6,19 @@ This maps how artists influence each other according to Wikipedia.
 Nodes represent people. An edge from node A to node B indicates that person A was influenced by person B. The larger the node, the more people that person has influenced in the network. Different colors correspond to communities within the network. Created using Gephi and structured wikipedia data from dbpedia. 
 
 The entire network
+==================
 ![1 Untrimmed Network](https://github.com/coreylynch/art-influence/raw/master/full_graph.png)
 
-Zooming in on Picasso's ego network, i.e. the people he influenced, was influenced by, and the connections between them.
+
+Picasso's Neighborhood
+======================
+This is Picasso's ego network, i.e. the people he influenced, was influenced by, and the connections between them.
 ![1 Picasso Black](https://github.com/coreylynch/art-influence/raw/master/picasso_black.png)
 
 ![1 Picasso White](https://github.com/coreylynch/art-influence/raw/master/picasso_white.png)
 
 The Kurdish poet satellite
+==========================
 ![1 Kurdish Poets](https://github.com/coreylynch/art-influence/raw/master/kurdish_poets.png)
 
 Some big disclaimers:
