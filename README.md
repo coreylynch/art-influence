@@ -13,6 +13,9 @@ Zooming in on Picasso's ego network, i.e. the people he influenced, was influenc
 
 ![1 Picasso White](https://github.com/coreylynch/art-influence/raw/master/picasso_white.png)
 
+The Kurdish poet satellite
+![1 Kurdish Poets](https://github.com/coreylynch/art-influence/raw/master/kurdish_poets.png)
+
 Some big disclaimers:
 * The influence relationship on dbpedia isn't weighted by how influential an artist was *relative to other influences*. Reality is probably much more complicated.
 * Western bias. http://en.wikipedia.org/wiki/Wikipedia:BIAS
