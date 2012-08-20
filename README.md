@@ -5,7 +5,7 @@ This maps how artists influence each other according to Wikipedia.
 
 Nodes represent people. An edge from node A to node B indicates that person A was influenced by person B. The larger the node, the more people that person has influenced in the network. Created using Gephi and structured wikipedia data from dbpedia. 
 
-The entire network
+The Entire Network
 ==================
 ![1 Untrimmed Network](https://github.com/coreylynch/art-influence/raw/master/full_graph.png)
 
@@ -17,7 +17,7 @@ This is Picasso's ego network, i.e. the people he influenced, was influenced by,
 
 ![1 Picasso White](https://github.com/coreylynch/art-influence/raw/master/picasso_white.png)
 
-The Kurdish poet satellite
+The Kurdish Poet Satellite
 ==========================
 ![1 Kurdish Poets](https://github.com/coreylynch/art-influence/raw/master/kurdish_poets.png)
 
@@ -25,8 +25,9 @@ George Carlin's Neighborhood
 ============================
 ![1 George Carlin](https://github.com/coreylynch/art-influence/raw/master/comedic_influence.png)
 
-Some big disclaimers:
-* The influence relationship on dbpedia isn't weighted by how influential an artist was *relative to other influences*. Reality is probably much more complicated.
+Some Big Disclaimers
+====================
+* The influence relationship on dbpedia isn't weighted by how influential an artist was *relative to other influences*. Reality is probably much more complicated. 
 * Western bias. http://en.wikipedia.org/wiki/Wikipedia:BIAS
 
 Thanks to http://architects.dzone.com/articles/how-use-gephi-visualize ! 
